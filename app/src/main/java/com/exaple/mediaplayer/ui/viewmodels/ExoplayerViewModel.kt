@@ -14,8 +14,8 @@ import androidx.media3.common.util.UnstableApi
 import androidx.media3.exoplayer.DefaultLoadControl
 import androidx.media3.exoplayer.ExoPlayer
 import androidx.media3.exoplayer.trackselection.DefaultTrackSelector
-import com.exaple.mediaplayer.data.Language
-import com.exaple.mediaplayer.data.MediaItems
+import com.exaple.mediaplayer.ui.models.Language
+import com.exaple.mediaplayer.ui.models.MediaItems
 import kotlinx.coroutines.Job
 import kotlinx.coroutines.delay
 import kotlinx.coroutines.flow.MutableStateFlow

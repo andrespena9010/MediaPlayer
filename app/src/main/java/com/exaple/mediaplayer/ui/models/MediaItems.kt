@@ -1,4 +1,4 @@
-package com.exaple.mediaplayer.data
+package com.exaple.mediaplayer.ui.models
 
 /**
  * Modelo principal que contiene la lista de elementos multimedia (audios) disponibles.
